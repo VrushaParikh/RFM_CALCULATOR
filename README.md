@@ -1,6 +1,8 @@
 # rfmcalulator
 
-Flutter application to measure bodyy fat. Much accurate than BMI calculator
+Flutter application to measure body fat. Much accurate than BMI calculator.
+In the case of RFM, it's the distance around your waist in relation to your height that counts, rather than your weight. The researchers say that gives a better idea of whether someone's body fat is at a healthy level or not.
+But according to some researcher, "We still need to test the RFM in longitudinal studies with large populations to identify what ranges of body fat percentage are considered normal or abnormal in relation to serious obesity-related health problems," says Woolcott.
 
 ## Getting Started
 
